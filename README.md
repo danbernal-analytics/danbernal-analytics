@@ -28,7 +28,7 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 ---
 
-## 📂 Proyectos con Impacto de Negocio (Portafolio "Imán")
+## 📂 Proyectos con Impacto de Negocio 
 
 Mis proyectos demuestran la capacidad de vincular el análisis con los resultados financieros.
 
