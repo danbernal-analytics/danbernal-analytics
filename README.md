@@ -34,7 +34,7 @@ Mis proyectos demuestran la capacidad de vincular el análisis con los resultado
 
 | Proyecto | Habilidades Clave | Enlace al Repositorio |
 | :--- | :--- | :--- |
-| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | [Enlace al Sprint 9 - Showz] |
+| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | https://github.com/danbernal-analytics/-Calculo-y-Optimizacion-del-Retorno-de-Inversion-ROMI-en-Marketing-Digital.git |
 | **Test A/B y Estrategia de Conversión** | **Inferencia Estadística**, A/B Testing, Filtrado de Outliers | [Enlace al A/B Testing] |
 | **Análisis Operacional de Movilidad** | EDA Avanzado, Análisis de Demanda, Estrategia Logística | [Enlace al Sprint 8 - Taxi] |
 | **Comportamiento del Consumidor E-commerce** | **Customer Analytics**, Análisis de Frecuencia, Lealtad | [Enlace al Sprint 4 - Instacart] |
