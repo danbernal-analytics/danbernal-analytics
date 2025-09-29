@@ -49,4 +49,4 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 ---
 
-✨ *“.”*  
+✨ *“Cada dato guarda un secreto; mi misión es descifrarlo y traducirlo en valor para el negocio..”*  
