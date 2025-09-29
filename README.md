@@ -30,7 +30,7 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 ## 📂 Proyectos con Impacto de Negocio 
 
-Mis proyectos demuestran la capacidad de vincular el análisis con los resultados financieros.
+ Mis proyectos están diseñados para demostrar la capacidad de generar valor medible en entornos de tecnología y e-commerce, utilizando un enfoque de datos estructurados para la toma de decisiones.
 
 | Proyecto | Habilidades Clave | Enlace al Repositorio |
 | :--- | :--- | :--- |
