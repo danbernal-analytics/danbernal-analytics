@@ -45,7 +45,7 @@ Mis proyectos demuestran la capacidad de vincular el análisis con los resultado
 
 - 💼 [LinkedIn](https://linkedin.com/in/dan-bernal-data)  
 - 🐙 [GitHub](https://github.com/danbernal-data)  
-- 📧 dan.bernal.data@gmail.com  
+- 📧 danbernal.analytics@gmail.com  
 
 ---
 
