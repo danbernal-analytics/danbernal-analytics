@@ -34,10 +34,10 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 | Proyecto | Habilidades Clave | Enlace al Repositorio |
 | :--- | :--- | :--- |
-| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | https://github.com/danbernal-analytics/-Calculo-y-Optimizacion-del-Retorno-de-Inversion-ROMI-en-Marketing-Digital.git |
-| **Test A/B y Estrategia de Conversión** | **Inferencia Estadística**, A/B Testing, Filtrado de Outliers | https://github.com/danbernal-analytics/Test-A-B-para-Mejorar-la-Conversi-n-de-E-commerce |
-| **Análisis Operacional de Movilidad** | EDA Avanzado, Análisis de Demanda, Estrategia Logística | https://github.com/danbernal-analytics/-Analisis-de-Demanda-y-Optimizacion-Operacional-de-Movilidad |
-| **Comportamiento del Consumidor E-commerce** | **Customer Analytics**, Análisis de Frecuencia, Lealtad | https://github.com/danbernal-analytics/-Estrategia-de-Producto-basada-en-el-Comportamiento-del-Consumidor-Instacart- |
+| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | [] |
+| **Test A/B y Estrategia de Conversión** | **Inferencia Estadística**, A/B Testing, Filtrado de Outliers | [] |
+| **Análisis Operacional de Movilidad** | EDA Avanzado, Análisis de Demanda, Estrategia Logística | [] |
+| **Comportamiento del Consumidor E-commerce** | **Customer Analytics**, Análisis de Frecuencia, Lealtad | [] |
 
 > **Nota:** Todos mis repositorios son **reproducibles**, incluyendo `README.md` detallados con conclusiones de negocio, código fuente y *datasets* anonimizados.
 
