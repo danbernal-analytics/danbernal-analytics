@@ -34,10 +34,10 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 | Proyecto | Habilidades Clave | Enlace al Repositorio |
 | :--- | :--- | :--- |
-| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | [] |
-| **Test A/B y Estrategia de Conversión** | **Inferencia Estadística**, A/B Testing, Filtrado de Outliers | [] |
-| **Análisis Operacional de Movilidad** | EDA Avanzado, Análisis de Demanda, Estrategia Logística | [] |
-| **Comportamiento del Consumidor E-commerce** | **Customer Analytics**, Análisis de Frecuencia, Lealtad | [] |
+| **Optimización de Gasto de Marketing (LTV/CAC)** | **Growth Metrics**, Cohort Analysis, ROMI | https://github.com/danbernal-analytics/growth-analytics-ltv-cac |
+| **Test A/B y Estrategia de Conversión** | **Inferencia Estadística**, A/B Testing, Filtrado de Outliers | https://github.com/danbernal-analytics/ab-testing-conversion |
+| **Análisis Operacional de Movilidad** | EDA Avanzado, Análisis de Demanda, Estrategia Logística | https://github.com/danbernal-analytics/eda-logistics-optimization |
+| **Comportamiento del Consumidor E-commerce** | **Customer Analytics**, Análisis de Frecuencia, Lealtad | https://github.com/danbernal-analytics/customer-analytics-instacart |
 
 > **Nota:** Todos mis repositorios son **reproducibles**, incluyendo `README.md` detallados con conclusiones de negocio, código fuente y *datasets* anonimizados.
 
