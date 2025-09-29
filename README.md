@@ -1,4 +1,4 @@
-# Hola! Soy Dan Bernal, Analista de Datos enfocado en el Crecimiento de Producto 🚀
+# Hola! Soy Dan Bernal, Analista de Datos enfocado en el Crecimiento de Producto 
 
 ### 💡 Perfil de Candidato
 Analista de Datos con **73% de conclusión** en el Bootcamp de Data Analyst de TripleTen. Mi experiencia se centra en la **optimización de procesos de negocio y la Growth Analytics**, transformando datos brutos en decisiones estratégicas y monetizables.
