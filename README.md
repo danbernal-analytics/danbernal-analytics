@@ -2,8 +2,10 @@
 
 Soy Data Analyst especializado en Growth Analytics, A/B Testing, Product Metrics y Optimización de Funnels. Combino habilidades analíticas con experiencia real en procesos operativos, comunicación estratégica y toma de decisiones centradas en negocio.
 
-📍 Basado en: México
-📊 Intereses: Analítica de Producto, Experimentación, LTV/CAC, Cohortes, Behavioral Data
+📍 Basado en: México.
+
+📊 Intereses: Analítica de Producto, Experimentación, LTV/CAC, Cohortes, Behavioral Data.
+
 🎯 Objetivo: Crear soluciones basadas en datos que impulsen crecimiento sostenible y mejores experiencias de usuario.
 
 ---
