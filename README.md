@@ -1,3 +1,4 @@
+
 ##👋 Hola! Soy Dan Bernal, Analista de Datos enfocado en el Crecimiento de Producto 
 
 Soy Data Analyst especializado en Growth Analytics, A/B Testing, Product Metrics y Optimización de Funnels. Combino habilidades analíticas con experiencia real en procesos operativos, comunicación estratégica y toma de decisiones centradas en negocio.
