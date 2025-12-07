@@ -1,9 +1,10 @@
-# Hola! Soy Dan Bernal, Analista de Datos enfocado en el Crecimiento de Producto 
+👋 Hola! Soy Dan Bernal, Analista de Datos enfocado en el Crecimiento de Producto 
 
-### 💡 Perfil de Candidato
-Mi experiencia se centra en la **optimización de procesos de negocio y la Growth Analytics**, transformando datos brutos en decisiones estratégicas y monetizables.
+Soy Data Analyst especializado en Growth Analytics, A/B Testing, Product Metrics y Optimización de Funnels. Combino habilidades analíticas con experiencia real en procesos operativos, comunicación estratégica y toma de decisiones centradas en negocio.
 
-Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** para aplicar mi capacidad de **iniciativa** y mi enfoque en el **retorno de la inversión (ROI)**.
+📍 Basado en: México
+📊 Intereses: Analítica de Producto, Experimentación, LTV/CAC, Cohortes, Behavioral Data
+🎯 Objetivo: Crear soluciones basadas en datos que impulsen crecimiento sostenible y mejores experiencias de usuario.
 
 ---
 
@@ -11,7 +12,7 @@ Busco mi primera oportunidad en el sector de **startups, e-commerce o fintech** 
 
 | Habilidad | Nivel | Valor Agregado |
 | :--- | :--- | :--- |
-| **Inglés** | **Conversacional y Escrito** | Capacidad para trabajar con documentación técnica, equipos internacionales y conjuntos de datos globales. |
+| **Inglés** | **Conversacional y Escrito (Intermedio)** | Capacidad para trabajar con documentación técnica, equipos internacionales y conjuntos de datos globales. |
 | **Comunicación** | Storytelling de Datos | Convertir hallazgos técnicos complejos en *insights* de negocio claros para stakeholders. |
 | **Iniciativa** | Autodidacta | Rápida adaptación a nuevas herramientas y metodologías (ej. A/B Testing, LTV/CAC). |
 
